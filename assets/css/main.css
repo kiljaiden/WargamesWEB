@@ -2195,8 +2195,12 @@
 			}
 
 			#main > section.four {
+				background-color: #ecf1f1;
+			}
+			#main > section.five {
 				background-color: #e8edec;
 			}
+
 
 /* Wide */
 
