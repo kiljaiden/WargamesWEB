@@ -1709,7 +1709,7 @@
 		.image.avatar48 {
 			width: 40px;
 			height: 40px;
-			background: #g99;
+			background: #131212;
 		}
 
 			.image.avatar48 img {
@@ -2200,6 +2200,9 @@
 			#main > section.five {
 				background-color: #e8edec;
 			}
+			#main > section.six {
+				background-color: #e8edec;
+			}
 
 
 /* Wide */
@@ -2560,5 +2563,6 @@
 				#footer .copyright li:first-child {
 					margin-top: 0;
 				}
+
 
 	}
